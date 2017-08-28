@@ -1,3 +1,5 @@
 # Light-up-your-starry-sky
 This is a fun game！
-<a>点我</a>
+<html>
+  <a href="www.baidu,com">dianwo</a>
+</html>
